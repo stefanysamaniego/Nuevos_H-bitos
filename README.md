@@ -15,6 +15,13 @@ razón que decidimos cambiar pero no hay la fuerza de voluntad y no estamos info
 
 Te muestro la estructura de los hábitos
 
+     TPOS DE ABITOS
+Abito de Pensar: es la manera más rapita de pensar y analisar una solucion  para un problema personal o individual 
+a la manera que desamos personalmente solucionar ese problema.
+
+Ambito Emocional:  es la menera de pensar individualmete ya que todos temenos diferente forma de pensar ya que todos en diferentes tiempos teneomos diferentes emociones  
+
+
 RECORDATORIO -------------------> RUTINA ----------------------------------> RECOMPENSA
 
 (Señal que indica la acción) --- (La acción que estas tomando) --- (El beneficio que obtienes al realizar la acción )
